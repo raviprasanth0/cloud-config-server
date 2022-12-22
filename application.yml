@@ -12,4 +12,4 @@ microservice:
  customer-microservice:
   endpoints:
     endpoint:
-     uri: http://CUSTOMER-MICROSERVICE/customer/
+      uri: http://CUSTOMER-MICROSERVICE/customer/
