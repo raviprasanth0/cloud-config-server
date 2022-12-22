@@ -13,7 +13,3 @@ microservice:
   endpoints:
     endpoint:
      uri: http://CUSTOMER-MICROSERVICE/customer/
- user-microservice:
-  endpoints:
-    endpoint:
-     uri: http://USER-MICROSERVICE/**/
